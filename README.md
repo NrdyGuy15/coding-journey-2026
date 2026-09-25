@@ -31,3 +31,4 @@ Each session gets a dated entry: what I did, what broke, what I learned, and whe
 
 ## Related
 - [Cybersecurity 2026 Journey](https://github.com/NrdyGuy15/cybersecurity-journey-2026) — my home lab and security studies
+- [Cloud Journey 2026](https://github.com/NrdyGuy15/cloud-journey-2026) — weekly AWS study for offensive security
